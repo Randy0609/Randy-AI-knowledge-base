@@ -16,9 +16,9 @@ priority: critical
 
 ## 一、总原则
 
-本仓库（Randy-AI-）是 Randy 的**公开 AI 认知库**。它与 Randy 的私有 Obsidian Vault 的关系是：
+本仓库（Randy-AI-knowledge-base / Randy-AI认知库）是 Randy 的**公开 AI 认知库**。它与 Randy 的私有 Obsidian Vault 的关系是：
 
-| 维度 | Obsidian Vault（私有） | Randy-AI- GitHub（公开） |
+| 维度 | Obsidian Vault（私有） | Randy-AI-knowledge-base GitHub（公开） |
 |------|----------------------|------------------------|
 | 读者 | 4 个 Agent + Randy 本人 | 未来的 Agent、协作者、公众 |
 | 内容层级 | 全部工作产物、日志、思考草稿 | 方法论、框架、模板、认知输出 |

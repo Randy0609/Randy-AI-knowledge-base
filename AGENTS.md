@@ -1,11 +1,11 @@
 ---
-title: "AGENTS.md · Randy-AI- 仓库 Agent 入口"
+title: "AGENTS.md · Randy-AI认知库 Agent 入口"
 date: 2026-05-22
 status: draft
 version: v0.1-skeleton
 ---
 
-# AGENTS.md · Randy-AI- 仓库的 Agent 入口
+# AGENTS.md · Randy-AI认知库的 Agent 入口
 
 > ⚠️ **V0.1 骨架版**：本文件定义阅读路径和行为规则。内容待 Randy 确认后逐步充实。
 

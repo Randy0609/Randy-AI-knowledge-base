@@ -1,6 +1,6 @@
 ---
 title: "Agent 角色与分工体系"
-date: 2026-05-22
+date: 2026-05-23
 status: draft
 version: v0.1-skeleton
 ---
@@ -8,6 +8,8 @@ version: v0.1-skeleton
 # Agent 角色与分工体系
 
 > ⚠️ **V0.1 骨架版**：角色定义基于 Randy 当前 Agent 体系拟定，待 Randy 逐角色确认。
+>
+> ⚠️ **公开性注意**：下表中的角色名（大榕、Codex、Hermes、DeepSeek TUI、FDE 工程师）是 Randy 当前内部 Agent 体系的真实名称。这些名字适合公开吗？还是应该改成「角色原型」（如「决策型 Agent」「工程型 Agent」）？**需 Randy 明确确认后再决定是否保留当前名称。**
 
 ## 角色表
 
@@ -35,3 +37,4 @@ version: v0.1-skeleton
 > - 各角色的职责边界描述是否准确？
 > - 是否有其他 Agent 角色需要纳入？
 > - 三条铁律是否需要补充？
+> - **【关键】是否保留当前内部角色名称（大榕、Codex、Hermes 等）用于公开仓库？还是改为「决策型 Agent」「工程型 Agent」等角色原型描述？**

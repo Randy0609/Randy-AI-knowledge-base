@@ -1,6 +1,6 @@
 ---
 title: "90-meta 导航"
-date: 2026-05-22
+date: 2026-05-23
 status: draft
 version: v0.1-skeleton
 ---
@@ -13,8 +13,8 @@ version: v0.1-skeleton
 
 | 文件 | 用途 | 状态 |
 |------|------|------|
-| `repo-roadmap.md` | 仓库建设路线图 | 待创建 |
-| `agent-kpi.md` | Agent 工作考核指标 | 待创建 |
+| `repo-roadmap.md` | 仓库建设路线图 | 已创建 / draft |
+| `agent-kpi.md` | Agent 工作考核指标 | 已创建 / draft |
 
 ## 本节用途
 

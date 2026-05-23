@@ -1,6 +1,6 @@
 ---
 title: "仓库建设路线图"
-date: 2026-05-22
+date: 2026-05-23
 status: draft
 version: v0.1-skeleton
 ---
@@ -15,8 +15,9 @@ version: v0.1-skeleton
 
 **已完成**：
 - [x] 仓库 init
-- [x] `v0.1-skeleton` 分支
+- [x] `v0.1-skeleton` 分支（即当前默认分支，仓库不设 `main` 分支）
 - [x] 目录结构创建
+- [x] README.md（公开仓库第一屏总入口）
 - [x] AGENTS.md（Agent 第一入口）
 - [x] `00-onboarding/` 骨架（含公开边界、Randy 画像、入职指南）
 - [x] `30-agent-ops/` 骨架（角色、工作流、考核、通信）
@@ -26,7 +27,7 @@ version: v0.1-skeleton
 **待完成**：
 - [ ] Randy 审核确认所有骨架文件
 - [ ] 根据反馈调整结构和内容
-- [ ] 确认后合并到 main
+- [ ] 确认后将 `v0.1-skeleton` 标记为稳定版
 
 ## 下一阶段：V0.2 — 内容填充
 
