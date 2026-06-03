@@ -1,0 +1,16 @@
+{
+  // 适配中英文混排的 Markdown 规范
+  "config": {
+    "default": true,
+    // 中文内容不适合硬限制行长度
+    "MD013": false,
+    // 允许重复标题（不同层级的目录）
+    "MD024": { "siblings_only": true },
+    // 允许非 1 开头的有序列表（编号体系需要）
+    "MD029": false,
+    // 允许内联 HTML（表格等）
+    "MD033": false,
+    // 允许 bare URL
+    "MD034": false
+  }
+}
